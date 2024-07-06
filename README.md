@@ -55,7 +55,7 @@ In this section, we focus on the goal spans of players. We engineer a dataset fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Football-Team-and-Player-Analysis.git
+   git clone https://github.com/arbelAskayo/Football-Team-and-Player-Analysis.git
    ```
 
 2. Navigate to the repository directory:
